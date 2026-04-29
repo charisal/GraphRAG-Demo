@@ -1,0 +1,18 @@
+# HTTP client for fetching Wikipedia articles (notebook 1)
+requests>=2.32.0
+
+# Load environment variables from .env files
+python-dotenv>=1.0.0
+
+# Azure OpenAI Python SDK — entity extraction, embeddings, and RAG answers
+openai>=1.30.0
+
+# Neo4j Python driver — import and query the knowledge graph
+neo4j>=5.20.0
+
+# Qdrant vector store client — store and search text embeddings
+qdrant-client>=1.9.0
+
+# Jupyter / notebook runtime
+jupyter>=1.0.0
+ipykernel>=6.29.0
