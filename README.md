@@ -1,5 +1,7 @@
 # GraphRAG Demo — Knowledge Graph + Vector Search over Wikipedia Scientists
 
+> This demo project was created to accompany the blog post **[GraphRAG Explained: The Missing Layer in Modern RAG Systems](https://serkanaytekin.com/graphrag-explained-the-missing-layer-in-modern-rag-systems/)**.
+
 A step-by-step demonstration of **Graph RAG** (Retrieval-Augmented Generation) that combines a Neo4j knowledge graph with Qdrant vector search to answer questions about 51 famous scientists.
 
 The project compares three retrieval strategies side-by-side:
